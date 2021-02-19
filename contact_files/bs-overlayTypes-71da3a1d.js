@@ -1,0 +1,2 @@
+define("@widget/LAYOUT/c/bs-overlayTypes-71da3a1d.js",["exports"],(function(e){"use strict";e.ACCENT="accent",e.CATEGORY="category",e.LIGHT_DARK="light_dark",e.NEUTRAL="neutral",e.NONE="none",e.PRIMARY="primary",e.countVctElement="Number(window.vctElements)||(window.vctElements=0),window.vctElements++"})),"undefined"!=typeof window&&(window.global=window);
+//# sourceMappingURL=bs-overlayTypes-71da3a1d.js.map
